@@ -28,7 +28,7 @@ The Weather Forecast Dashboard is a single-page application designed to provide 
 
 ## Live Demo
 
-You can view the live version of the application here: [Deployed Application](https://your-deployed-link.com).
+You can view the live version of the application here: [Weather-forecast-dashboard](https://vivekkumar-wasserstoff-fullstack-intern-task3.vercel.app/).
 
 ## Technical Requirements
 
@@ -42,7 +42,7 @@ To get started with the Weather Forecast Dashboard, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/weather-forecast-dashboard.git
+   git clone https://github.com/Vivek-018/Vivekkumar-wasserstoff-FullstackInternTask3.git
    cd weather-forecast-dashboard
    ```
 
@@ -78,10 +78,3 @@ To get started with the Weather Forecast Dashboard, follow these steps:
 ## Contact
 
 For any inquiries or feedback, please contact me at [vr7064300@gmail.com](http://mail.google.com).
-```
-
-### Key Points:
-- Make sure to replace `https://your-deployed-link.com` with the actual URL of your deployed application.
-- Update the repository link and email address as necessary.
-
-Let me know if you need any more modifications!
