@@ -1,5 +1,7 @@
 # Weather Forecast Dashboard
 
+![Weather Forecast Dashboard](./public/image.png)
+
 ## Overview
 
 The Weather Forecast Dashboard is a single-page application designed to provide users with current weather information and a 5-day forecast for any city. Utilizing the OpenWeatherMap API, this application enables users to easily check the weather conditions, including temperature, humidity, wind speed, and weather descriptions.
